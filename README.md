@@ -24,7 +24,3 @@ Then add **hubot-kittens** to your `external-scripts.json`:
 user1>> hubot kitten me
 hubot>> http://placekitten.com/g/384/299#.png
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-kittens
